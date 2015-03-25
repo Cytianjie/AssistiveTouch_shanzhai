@@ -1,0 +1,429 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DAE587E21AC2B58100D9D943 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE587E11AC2B58100D9D943 /* main.m */; };
+		DAE587E51AC2B58100D9D943 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE587E41AC2B58100D9D943 /* AppDelegate.m */; };
+		DAE587E81AC2B58100D9D943 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE587E71AC2B58100D9D943 /* ViewController.m */; };
+		DAE587EB1AC2B58100D9D943 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAE587E91AC2B58100D9D943 /* Main.storyboard */; };
+		DAE587ED1AC2B58100D9D943 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAE587EC1AC2B58100D9D943 /* Images.xcassets */; };
+		DAE587F01AC2B58100D9D943 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DAE587EE1AC2B58100D9D943 /* LaunchScreen.xib */; };
+		DAE587FC1AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE587FB1AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		DAE587F61AC2B58100D9D943 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DAE587D41AC2B58100D9D943 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DAE587DB1AC2B58100D9D943;
+			remoteInfo = AssistiveTouch_shanzhai;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DAE587DC1AC2B58100D9D943 /* AssistiveTouch_shanzhai.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AssistiveTouch_shanzhai.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DAE587E01AC2B58100D9D943 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAE587E11AC2B58100D9D943 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		DAE587E31AC2B58100D9D943 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		DAE587E41AC2B58100D9D943 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		DAE587E61AC2B58100D9D943 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		DAE587E71AC2B58100D9D943 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		DAE587EA1AC2B58100D9D943 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DAE587EC1AC2B58100D9D943 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		DAE587EF1AC2B58100D9D943 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		DAE587F51AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AssistiveTouch_shanzhaiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DAE587FA1AC2B58100D9D943 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAE587FB1AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AssistiveTouch_shanzhaiTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DAE587D91AC2B58100D9D943 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DAE587F21AC2B58100D9D943 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DAE587D31AC2B58100D9D943 = {
+			isa = PBXGroup;
+			children = (
+				DAE587DE1AC2B58100D9D943 /* AssistiveTouch_shanzhai */,
+				DAE587F81AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests */,
+				DAE587DD1AC2B58100D9D943 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DAE587DD1AC2B58100D9D943 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DAE587DC1AC2B58100D9D943 /* AssistiveTouch_shanzhai.app */,
+				DAE587F51AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DAE587DE1AC2B58100D9D943 /* AssistiveTouch_shanzhai */ = {
+			isa = PBXGroup;
+			children = (
+				DAE587E31AC2B58100D9D943 /* AppDelegate.h */,
+				DAE587E41AC2B58100D9D943 /* AppDelegate.m */,
+				DAE587E61AC2B58100D9D943 /* ViewController.h */,
+				DAE587E71AC2B58100D9D943 /* ViewController.m */,
+				DAE587E91AC2B58100D9D943 /* Main.storyboard */,
+				DAE587EC1AC2B58100D9D943 /* Images.xcassets */,
+				DAE587EE1AC2B58100D9D943 /* LaunchScreen.xib */,
+				DAE587DF1AC2B58100D9D943 /* Supporting Files */,
+			);
+			path = AssistiveTouch_shanzhai;
+			sourceTree = "<group>";
+		};
+		DAE587DF1AC2B58100D9D943 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DAE587E01AC2B58100D9D943 /* Info.plist */,
+				DAE587E11AC2B58100D9D943 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DAE587F81AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests */ = {
+			isa = PBXGroup;
+			children = (
+				DAE587FB1AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.m */,
+				DAE587F91AC2B58100D9D943 /* Supporting Files */,
+			);
+			path = AssistiveTouch_shanzhaiTests;
+			sourceTree = "<group>";
+		};
+		DAE587F91AC2B58100D9D943 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				DAE587FA1AC2B58100D9D943 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DAE587DB1AC2B58100D9D943 /* AssistiveTouch_shanzhai */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DAE587FF1AC2B58100D9D943 /* Build configuration list for PBXNativeTarget "AssistiveTouch_shanzhai" */;
+			buildPhases = (
+				DAE587D81AC2B58100D9D943 /* Sources */,
+				DAE587D91AC2B58100D9D943 /* Frameworks */,
+				DAE587DA1AC2B58100D9D943 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AssistiveTouch_shanzhai;
+			productName = AssistiveTouch_shanzhai;
+			productReference = DAE587DC1AC2B58100D9D943 /* AssistiveTouch_shanzhai.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DAE587F41AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DAE588021AC2B58100D9D943 /* Build configuration list for PBXNativeTarget "AssistiveTouch_shanzhaiTests" */;
+			buildPhases = (
+				DAE587F11AC2B58100D9D943 /* Sources */,
+				DAE587F21AC2B58100D9D943 /* Frameworks */,
+				DAE587F31AC2B58100D9D943 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DAE587F71AC2B58100D9D943 /* PBXTargetDependency */,
+			);
+			name = AssistiveTouch_shanzhaiTests;
+			productName = AssistiveTouch_shanzhaiTests;
+			productReference = DAE587F51AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DAE587D41AC2B58100D9D943 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = beijing;
+				TargetAttributes = {
+					DAE587DB1AC2B58100D9D943 = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					DAE587F41AC2B58100D9D943 = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = DAE587DB1AC2B58100D9D943;
+					};
+				};
+			};
+			buildConfigurationList = DAE587D71AC2B58100D9D943 /* Build configuration list for PBXProject "AssistiveTouch_shanzhai" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DAE587D31AC2B58100D9D943;
+			productRefGroup = DAE587DD1AC2B58100D9D943 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DAE587DB1AC2B58100D9D943 /* AssistiveTouch_shanzhai */,
+				DAE587F41AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DAE587DA1AC2B58100D9D943 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DAE587EB1AC2B58100D9D943 /* Main.storyboard in Resources */,
+				DAE587F01AC2B58100D9D943 /* LaunchScreen.xib in Resources */,
+				DAE587ED1AC2B58100D9D943 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DAE587F31AC2B58100D9D943 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DAE587D81AC2B58100D9D943 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DAE587E81AC2B58100D9D943 /* ViewController.m in Sources */,
+				DAE587E51AC2B58100D9D943 /* AppDelegate.m in Sources */,
+				DAE587E21AC2B58100D9D943 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DAE587F11AC2B58100D9D943 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DAE587FC1AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DAE587F71AC2B58100D9D943 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DAE587DB1AC2B58100D9D943 /* AssistiveTouch_shanzhai */;
+			targetProxy = DAE587F61AC2B58100D9D943 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		DAE587E91AC2B58100D9D943 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DAE587EA1AC2B58100D9D943 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		DAE587EE1AC2B58100D9D943 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DAE587EF1AC2B58100D9D943 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		DAE587FD1AC2B58100D9D943 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DAE587FE1AC2B58100D9D943 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DAE588001AC2B58100D9D943 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = AssistiveTouch_shanzhai/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		DAE588011AC2B58100D9D943 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = AssistiveTouch_shanzhai/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		DAE588031AC2B58100D9D943 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = AssistiveTouch_shanzhaiTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AssistiveTouch_shanzhai.app/AssistiveTouch_shanzhai";
+			};
+			name = Debug;
+		};
+		DAE588041AC2B58100D9D943 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = AssistiveTouch_shanzhaiTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/AssistiveTouch_shanzhai.app/AssistiveTouch_shanzhai";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DAE587D71AC2B58100D9D943 /* Build configuration list for PBXProject "AssistiveTouch_shanzhai" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DAE587FD1AC2B58100D9D943 /* Debug */,
+				DAE587FE1AC2B58100D9D943 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DAE587FF1AC2B58100D9D943 /* Build configuration list for PBXNativeTarget "AssistiveTouch_shanzhai" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DAE588001AC2B58100D9D943 /* Debug */,
+				DAE588011AC2B58100D9D943 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		DAE588021AC2B58100D9D943 /* Build configuration list for PBXNativeTarget "AssistiveTouch_shanzhaiTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DAE588031AC2B58100D9D943 /* Debug */,
+				DAE588041AC2B58100D9D943 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DAE587D41AC2B58100D9D943 /* Project object */;
+}
