@@ -16,6 +16,7 @@
 		DAE587FC1AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE587FB1AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.m */; };
 		DAE5880A1AC2B67C00D9D943 /* HSmoverLable.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE588091AC2B67C00D9D943 /* HSmoverLable.m */; };
 		DAE5880D1AC2B69400D9D943 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE5880C1AC2B69400D9D943 /* TestViewController.m */; };
+		DAE588101AC2B74B00D9D943 /* wcViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE5880F1AC2B74B00D9D943 /* wcViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,8 @@
 		DAE588091AC2B67C00D9D943 /* HSmoverLable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HSmoverLable.m; sourceTree = "<group>"; };
 		DAE5880B1AC2B69400D9D943 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
 		DAE5880C1AC2B69400D9D943 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
+		DAE5880E1AC2B74B00D9D943 /* wcViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = wcViewController.h; sourceTree = "<group>"; };
+		DAE5880F1AC2B74B00D9D943 /* wcViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = wcViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +98,8 @@
 				DAE587E71AC2B58100D9D943 /* ViewController.m */,
 				DAE5880B1AC2B69400D9D943 /* TestViewController.h */,
 				DAE5880C1AC2B69400D9D943 /* TestViewController.m */,
+				DAE5880E1AC2B74B00D9D943 /* wcViewController.h */,
+				DAE5880F1AC2B74B00D9D943 /* wcViewController.m */,
 				DAE587E91AC2B58100D9D943 /* Main.storyboard */,
 				DAE587EC1AC2B58100D9D943 /* Images.xcassets */,
 				DAE587EE1AC2B58100D9D943 /* LaunchScreen.xib */,
@@ -231,6 +236,7 @@
 			files = (
 				DAE587E81AC2B58100D9D943 /* ViewController.m in Sources */,
 				DAE5880A1AC2B67C00D9D943 /* HSmoverLable.m in Sources */,
+				DAE588101AC2B74B00D9D943 /* wcViewController.m in Sources */,
 				DAE587E51AC2B58100D9D943 /* AppDelegate.m in Sources */,
 				DAE587E21AC2B58100D9D943 /* main.m in Sources */,
 				DAE5880D1AC2B69400D9D943 /* TestViewController.m in Sources */,
