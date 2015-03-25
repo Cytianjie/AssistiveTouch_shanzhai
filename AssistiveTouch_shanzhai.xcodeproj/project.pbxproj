@@ -40,6 +40,10 @@
 		DAE587F51AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AssistiveTouch_shanzhaiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAE587FA1AC2B58100D9D943 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DAE587FB1AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AssistiveTouch_shanzhaiTests.m; sourceTree = "<group>"; };
+		DAE588081AC2B67C00D9D943 /* HSmoverLable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HSmoverLable.h; sourceTree = "<group>"; };
+		DAE588091AC2B67C00D9D943 /* HSmoverLable.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HSmoverLable.m; sourceTree = "<group>"; };
+		DAE5880B1AC2B69400D9D943 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		DAE5880C1AC2B69400D9D943 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,10 +85,14 @@
 		DAE587DE1AC2B58100D9D943 /* AssistiveTouch_shanzhai */ = {
 			isa = PBXGroup;
 			children = (
+				DAE588081AC2B67C00D9D943 /* HSmoverLable.h */,
+				DAE588091AC2B67C00D9D943 /* HSmoverLable.m */,
 				DAE587E31AC2B58100D9D943 /* AppDelegate.h */,
 				DAE587E41AC2B58100D9D943 /* AppDelegate.m */,
 				DAE587E61AC2B58100D9D943 /* ViewController.h */,
 				DAE587E71AC2B58100D9D943 /* ViewController.m */,
+				DAE5880B1AC2B69400D9D943 /* TestViewController.h */,
+				DAE5880C1AC2B69400D9D943 /* TestViewController.m */,
 				DAE587E91AC2B58100D9D943 /* Main.storyboard */,
 				DAE587EC1AC2B58100D9D943 /* Images.xcassets */,
 				DAE587EE1AC2B58100D9D943 /* LaunchScreen.xib */,
@@ -220,8 +228,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				DAE587E81AC2B58100D9D943 /* ViewController.m in Sources */,
+				DAE5880A1AC2B67C00D9D943 /* HSmoverLable.m in Sources */,
 				DAE587E51AC2B58100D9D943 /* AppDelegate.m in Sources */,
 				DAE587E21AC2B58100D9D943 /* main.m in Sources */,
+				DAE5880D1AC2B69400D9D943 /* TestViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,6 +424,7 @@
 				DAE588011AC2B58100D9D943 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DAE588021AC2B58100D9D943 /* Build configuration list for PBXNativeTarget "AssistiveTouch_shanzhaiTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +433,7 @@
 				DAE588041AC2B58100D9D943 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

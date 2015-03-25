@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0B5B55AF-E286-4302-B2AC-9014C4D34D3B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AssistiveTouch_shanzhai</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C7E61F969C5CFA7DFD4C608FF73871F71617EC28</key>
+		<string>https://github.com/Cytianjie/AssistiveTouch_shanzhai.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AssistiveTouch_shanzhai.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C7E61F969C5CFA7DFD4C608FF73871F71617EC28</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Cytianjie/AssistiveTouch_shanzhai.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C7E61F969C5CFA7DFD4C608FF73871F71617EC28</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C7E61F969C5CFA7DFD4C608FF73871F71617EC28</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AssistiveTouch_shanzhai</string>
+		</dict>
+	</array>
+</dict>
+</plist>
