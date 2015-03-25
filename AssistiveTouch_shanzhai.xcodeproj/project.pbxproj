@@ -14,6 +14,8 @@
 		DAE587ED1AC2B58100D9D943 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAE587EC1AC2B58100D9D943 /* Images.xcassets */; };
 		DAE587F01AC2B58100D9D943 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = DAE587EE1AC2B58100D9D943 /* LaunchScreen.xib */; };
 		DAE587FC1AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE587FB1AC2B58100D9D943 /* AssistiveTouch_shanzhaiTests.m */; };
+		DAE5880A1AC2B67C00D9D943 /* HSmoverLable.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE588091AC2B67C00D9D943 /* HSmoverLable.m */; };
+		DAE5880D1AC2B69400D9D943 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE5880C1AC2B69400D9D943 /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
